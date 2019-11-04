@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iftaskdowhilefor 4.1", "ift
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iftaksdowhilefor 4.2", "iftaksdowhilefor 4.2\iftaksdowhilefor 4.2.csproj", "{C1D2CA49-121F-426D-AB67-F7BF589D6F37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iftaskdowhilefor 4.3", "iftaskdowhilefor 4.3\iftaskdowhilefor 4.3.csproj", "{FADE3065-4929-441D-B5C9-6F79F7A44040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iftaskdowhilefor 4.3", "iftaskdowhilefor 4.3\iftaskdowhilefor 4.3.csproj", "{FADE3065-4929-441D-B5C9-6F79F7A44040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iftaskdowhilefor 4.4", "ConsoleApp1\iftaskdowhilefor 4.4.csproj", "{AE3AA8D5-4C2A-45E8-815A-26A097097974}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{FADE3065-4929-441D-B5C9-6F79F7A44040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FADE3065-4929-441D-B5C9-6F79F7A44040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FADE3065-4929-441D-B5C9-6F79F7A44040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3AA8D5-4C2A-45E8-815A-26A097097974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3AA8D5-4C2A-45E8-815A-26A097097974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3AA8D5-4C2A-45E8-815A-26A097097974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3AA8D5-4C2A-45E8-815A-26A097097974}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
