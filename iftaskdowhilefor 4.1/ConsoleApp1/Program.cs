@@ -31,7 +31,7 @@ namespace ConsoleApp1
                        
             }
 
-            Console.WriteLine($"Rahaa on heitetty {n}.\tKlaavoja tuli { klaava } ja Kruunuja tuli {kruuna
+            Console.WriteLine($"Rahaa on heitetty {n}.\tKlaavoja tuli { klaava } ja Kruunuja tuli {kruuna}");
 
         }
     }
